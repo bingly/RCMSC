@@ -1,0 +1,10 @@
+dataset: BBCSport
+
+learning_rate: 0.0005
+seed: 10
+epochs: 200
+
+alpha: 0.0001
+beta: 0.1
+k: 18 
+q: 0.6

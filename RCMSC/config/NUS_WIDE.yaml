@@ -1,0 +1,10 @@
+dataset: NUS_WIDE
+
+learning_rate: 0.0005
+seed: 20
+epochs: 200
+
+alpha: 0.001
+beta: 1
+k: 3
+q: 2

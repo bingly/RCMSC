@@ -1,0 +1,10 @@
+dataset: 3Sources
+
+learning_rate: 0.0005
+seed: 10
+epochs: 200
+
+alpha: 1
+beta: 0.001
+k: 15 
+q: 0.4

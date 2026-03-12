@@ -1,0 +1,10 @@
+dataset: COIL_20
+
+learning_rate: 0.0005
+seed: 50
+epochs: 201
+
+alpha: 0.1
+beta: 0.1
+k: 8 
+q: 0.2
