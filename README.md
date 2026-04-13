@@ -1,6 +1,6 @@
 # PR-2026-RCMSC
 
-This repo contains the code of our PR'2024 paper: [Robust contrastive multi-view subspace clustering (RCMSC)](https://doi.org/10.1016/j.patcog.2026.113696).
+This repo contains the code of our PR'2026 paper: [Robust contrastive multi-view subspace clustering (RCMSC)](https://doi.org/10.1016/j.patcog.2026.113696).
 
 ## Requirements
 
